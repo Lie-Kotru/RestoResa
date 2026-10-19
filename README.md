@@ -32,6 +32,7 @@ Avant de commencer, assure-toi d’avoir :
 - un éditeur de code, comme Visual Studio Code ;
 - un navigateur web moderne ;
 - un compte GitHub personnel.
+test numéro 1
 
 ## Travailler sur le projet en local
 
@@ -127,3 +128,4 @@ Ce projet est sous licence MIT. Consulte le fichier `License` pour plus d’info
 *RestoResa est un projet fictif à but pédagogique, développé dans le cadre de formations au développement web. Il a pour objectif principal de permettre aux apprenants de pratiquer la collaboration avec Git et GitHub.*
 
 ```
+modification simple pour issue #1, ne trouvant pas où se trouve l'issue en question.
