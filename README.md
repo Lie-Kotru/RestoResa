@@ -32,7 +32,7 @@ Avant de commencer, assure-toi d’avoir :
 - un éditeur de code, comme Visual Studio Code ;
 - un navigateur web moderne ;
 - un compte GitHub personnel.
-test numéro 1
+test numéro 2
 
 ## Travailler sur le projet en local
 
